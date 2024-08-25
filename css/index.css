@@ -24,13 +24,13 @@ img {
 
 ::after {
   content: "";
-  width: 100%;
   position: absolute;
   left: 0;
   bottom: -1px;
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
+  width: 100%;
 }
 
 .page-header {
@@ -85,6 +85,8 @@ img {
 
 .link-nav {
   padding: 24px 0;
+  position: relative;
+  color: #404bbf;
 }
 
 .link-nav,
