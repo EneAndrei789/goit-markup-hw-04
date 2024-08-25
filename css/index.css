@@ -260,6 +260,12 @@ img {
   text-align: center;
 }
 
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 24px ;
+}
+
 /* sectiune 3 */
 .section-our-team {
   background-color: #f4f4fd;
